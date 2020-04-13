@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/EShopExpress/static/css/main.3fd7ee82.chunk.css",
+    "main.js": "/EShopExpress/static/js/main.5dc37c9b.chunk.js",
+    "main.js.map": "/EShopExpress/static/js/main.5dc37c9b.chunk.js.map",
+    "runtime-main.js": "/EShopExpress/static/js/runtime-main.b70b76d3.js",
+    "runtime-main.js.map": "/EShopExpress/static/js/runtime-main.b70b76d3.js.map",
+    "static/js/2.afdec1a2.chunk.js": "/EShopExpress/static/js/2.afdec1a2.chunk.js",
+    "static/js/2.afdec1a2.chunk.js.map": "/EShopExpress/static/js/2.afdec1a2.chunk.js.map",
+    "index.html": "/EShopExpress/index.html",
+    "precache-manifest.852e3b71e65bf750d9676787e59159a6.js": "/EShopExpress/precache-manifest.852e3b71e65bf750d9676787e59159a6.js",
+    "service-worker.js": "/EShopExpress/service-worker.js",
+    "static/css/main.3fd7ee82.chunk.css.map": "/EShopExpress/static/css/main.3fd7ee82.chunk.css.map",
+    "static/js/2.afdec1a2.chunk.js.LICENSE.txt": "/EShopExpress/static/js/2.afdec1a2.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/EShopExpress/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b70b76d3.js",
+    "static/js/2.afdec1a2.chunk.js",
+    "static/css/main.3fd7ee82.chunk.css",
+    "static/js/main.5dc37c9b.chunk.js"
+  ]
+}
