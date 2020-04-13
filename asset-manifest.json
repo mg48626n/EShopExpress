@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/eshopexpress/static/css/main.3fd7ee82.chunk.css",
-    "main.js": "/eshopexpress/static/js/main.66cc03f2.chunk.js",
-    "main.js.map": "/eshopexpress/static/js/main.66cc03f2.chunk.js.map",
-    "runtime-main.js": "/eshopexpress/static/js/runtime-main.7c5160a0.js",
-    "runtime-main.js.map": "/eshopexpress/static/js/runtime-main.7c5160a0.js.map",
-    "static/js/2.afdec1a2.chunk.js": "/eshopexpress/static/js/2.afdec1a2.chunk.js",
-    "static/js/2.afdec1a2.chunk.js.map": "/eshopexpress/static/js/2.afdec1a2.chunk.js.map",
-    "index.html": "/eshopexpress/index.html",
-    "precache-manifest.df230f77befbde69d0849db8311c2b5f.js": "/eshopexpress/precache-manifest.df230f77befbde69d0849db8311c2b5f.js",
-    "service-worker.js": "/eshopexpress/service-worker.js",
-    "static/css/main.3fd7ee82.chunk.css.map": "/eshopexpress/static/css/main.3fd7ee82.chunk.css.map",
-    "static/js/2.afdec1a2.chunk.js.LICENSE.txt": "/eshopexpress/static/js/2.afdec1a2.chunk.js.LICENSE.txt",
-    "static/media/logo.svg": "/eshopexpress/static/media/logo.5d5d9eef.svg"
+    "main.css": "/React/EShopExpress/static/css/main.3fd7ee82.chunk.css",
+    "main.js": "/React/EShopExpress/static/js/main.c04fe743.chunk.js",
+    "main.js.map": "/React/EShopExpress/static/js/main.c04fe743.chunk.js.map",
+    "runtime-main.js": "/React/EShopExpress/static/js/runtime-main.3041525e.js",
+    "runtime-main.js.map": "/React/EShopExpress/static/js/runtime-main.3041525e.js.map",
+    "static/js/2.afdec1a2.chunk.js": "/React/EShopExpress/static/js/2.afdec1a2.chunk.js",
+    "static/js/2.afdec1a2.chunk.js.map": "/React/EShopExpress/static/js/2.afdec1a2.chunk.js.map",
+    "index.html": "/React/EShopExpress/index.html",
+    "precache-manifest.23da00a562c7a5c2c86252500fb1983f.js": "/React/EShopExpress/precache-manifest.23da00a562c7a5c2c86252500fb1983f.js",
+    "service-worker.js": "/React/EShopExpress/service-worker.js",
+    "static/css/main.3fd7ee82.chunk.css.map": "/React/EShopExpress/static/css/main.3fd7ee82.chunk.css.map",
+    "static/js/2.afdec1a2.chunk.js.LICENSE.txt": "/React/EShopExpress/static/js/2.afdec1a2.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/React/EShopExpress/static/media/logo.5d5d9eef.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.7c5160a0.js",
+    "static/js/runtime-main.3041525e.js",
     "static/js/2.afdec1a2.chunk.js",
     "static/css/main.3fd7ee82.chunk.css",
-    "static/js/main.66cc03f2.chunk.js"
+    "static/js/main.c04fe743.chunk.js"
   ]
 }
